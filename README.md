@@ -51,11 +51,7 @@ control-gastos/
 
 No requiere instalación ni servidor.
 
-1. Clona o descarga el repositorio:
-   ```bash
-   git clone https://github.com/USUARIO/control-gastos.git
-   ```
-2. Abre el archivo `index.html` en tu navegador (Chrome, Edge o Firefox).
+1. Link de Pagina Web: https://stevenmejia-mx.github.io/Control-de-Gastos/
 
 ---
 
@@ -152,10 +148,8 @@ Si algo es inválido, se muestra un mensaje de error y el campo se marca en rojo
 
 ## 📸 Capturas de pantalla
 
-> Agrega aquí tus capturas, por ejemplo guardándolas en una carpeta `img/`:
->
-> `![Vista de escritorio](img/escritorio.png)`
-> `![Vista en celular](img/celular.png)`
+> `![Vista de escritorio](img/web-escritorio.png)`
+> `![Vista en celular](img/web-mobile.png)`
 
 ---
 
