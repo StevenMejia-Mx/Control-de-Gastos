@@ -148,8 +148,8 @@ Si algo es inválido, se muestra un mensaje de error y el campo se marca en rojo
 
 ## 📸 Capturas de pantalla
 
-> `![Vista de escritorio](img/web-escritorio.png)`
-> `![Vista en celular](img/web-mobile.png)`
+![Vista de escritorio](img/web-escritorio.png)
+![Vista en celular](img/web-mobile.png)
 
 ---
 
